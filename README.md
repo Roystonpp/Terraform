@@ -2,7 +2,7 @@
 Simple Terraform with AWS
 
 
-#prerequisite
+# Prerequisite
 
  - Install Terraform
 
